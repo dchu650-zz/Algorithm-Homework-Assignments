@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="Homework Assignments/CS_361_HW#1/src/|Homework Assignments/CS_361_HW#2/src/|Homework Assignments/CS_361_HW#3/src/|Homework Assignments/CS_361_HW#4/src/|Homework Assignments/CS_361_HW#5/src/|Homework Assignments/CS_361_HW#6/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="Homework Assignments/CS_361_HW#1/src"/>
+	<classpathentry kind="src" path="Homework Assignments/CS_361_HW#2/src"/>
+	<classpathentry kind="src" path="Homework Assignments/CS_361_HW#3/src"/>
+	<classpathentry kind="src" path="Homework Assignments/CS_361_HW#4/src"/>
+	<classpathentry kind="src" path="Homework Assignments/CS_361_HW#5/src"/>
+	<classpathentry kind="src" path="Homework Assignments/CS_361_HW#6/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Homework Assignments/CS_361_HW#1/bin"/>
+</classpath>
